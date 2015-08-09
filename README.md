@@ -7,7 +7,9 @@ A checkbox is checked when the task is completed, and the font color changes to 
 `Completed Tab` shows completed items ie., items that are checked.
 `Pending Tab` shows pending items ie., unchecked items.
 Hover state on all items should display a choice to delete the item.
-If the user double clicks on any of the item, it becomes editable. Checked/Completed items are not editable.  
+If the user double clicks on any of the item, it becomes editable. Checked/Completed items are not editable.
+
+![Screenshot:](https://raw.githubusercontent.com/jquery-todo/gh-pages/assets/todo.gif)
 
 
 
