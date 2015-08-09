@@ -1,0 +1,84 @@
+.page-header {
+	text-align: center;
+}
+
+#inputText {
+	width: 100%;
+	border: 1px solid;
+	border-radius: 2px;
+	padding: 8px;
+	letter-spacing: 1px;
+}
+
+.tabController {
+	border-top: 5px solid;
+	margin-top: 40px;
+	padding-top: 20px;
+}
+
+#home {
+	padding: 30px 10px 0px 10px;
+}
+
+.taskList {
+	padding-left: 0px;
+}
+
+.taskList li {
+	list-style: none;
+	border-bottom: 1px solid #D4D4D4;
+	font-size: 22px;
+	color: #4E4E4E;
+	margin: 20px 0px;
+	padding-bottom: 10px;
+	text-transform: capitalize;
+}
+
+#home .showInline {
+	margin: 10px;
+}
+
+.items {
+	display: inline-block;
+}
+
+#edit {
+	text-transform: capitalize;
+}
+
+.showRemove {
+	display: inline-block;
+	float: right;
+	margin-top: 5px;
+	visibility: hidden;
+}
+.active{
+	visibility: visible;
+}
+.nav-tabs {
+	border: none;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover {
+	border: none;
+}
+
+#completed,
+#pending {
+	padding: 30px 10px 10px 20px;
+}
+
+#completedPanel div,
+#pendingPanel div {
+	border-bottom: 1px solid #D4D4D4;
+	font-size: 22px;
+	color: #4E4E4E;
+	margin: 20px 0px;
+	padding: 0px 0px 10px 15px;
+	text-transform: capitalize;
+}
+
+.removeComp {
+	float: right;
+}
