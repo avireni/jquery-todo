@@ -10,6 +10,6 @@ A checkbox is checked when the task is completed, and the font color changes to 
 Hover state on all items should display a choice to delete the item.  
 If the user double clicks on any of the item, it becomes editable.   Checked/Completed items are not editable.  
 
-![Screenshot:](https://raw.githubusercontent.com/jquery-todo/gh-pages/assets/todo.gif)
+![Screenshot:](https://raw.githubusercontent.com/avireni/jquery-todo/gh-pages/assets/todo.gif)
 
 
